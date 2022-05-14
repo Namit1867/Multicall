@@ -30,6 +30,7 @@ The `contracts/Multicall.sol` contains the code to fetch the data from given tar
 2. Run the test using this script.
    `npx hardhat test`
 
+```
 ## test.js output will be like this:-
 
 AQUA-WBNB(Net-LP) =>  $956.746049895809669787
@@ -68,6 +69,7 @@ DAI =>  $1.002371027876827935
 -------------------------------------------------------------------------------
 FRAX =>  $1.091648105722080605
 -------------------------------------------------------------------------------
+```
 
 ## Get Help and Join the Community
 
